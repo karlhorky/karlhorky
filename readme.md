@@ -12,7 +12,7 @@ Some of my open source projects:
 
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [GitHub Tricks](https://github.com/karlhorky/github-tricks)
-- [npm Scripts Tricks](https://github.com/karlhorky/npm-scripts-tricks)
+- [npm Tricks](https://github.com/karlhorky/npm-tricks)
 - [TypeScript Tricks](https://github.com/karlhorky/typescript-tricks)
 - [Creating GitHub Releases of `pkg` Executables using GitHub Actions](https://github.com/karlhorky/vercel-pkg-github-actions-release)
 - [Violentmonkey / Greasemonkey userscripts](https://github.com/karlhorky/userscripts)
