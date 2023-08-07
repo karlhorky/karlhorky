@@ -17,3 +17,4 @@ Some of my open source projects:
 - [Creating GitHub Releases of `pkg` Executables using GitHub Actions](https://github.com/karlhorky/vercel-pkg-github-actions-release)
 - [Violentmonkey / Greasemonkey userscripts](https://github.com/karlhorky/userscripts)
 - [macOS Dotfiles](https://github.com/karlhorky/dotfiles)
+- [Recommendations](https://github.com/karlhorky/recommendations)
