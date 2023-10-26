@@ -11,10 +11,6 @@ Currently I'm passionate about building [UpLeveled](https://upleveled.io) to pro
 Some of my open source projects:
 
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
-- [GitHub Tricks](https://github.com/karlhorky/github-tricks)
-- [npm Tricks](https://github.com/karlhorky/npm-tricks)
-- [TypeScript Tricks](https://github.com/karlhorky/typescript-tricks)
-- [Creating GitHub Releases of `pkg` Executables using GitHub Actions](https://github.com/karlhorky/vercel-pkg-github-actions-release)
-- [Violentmonkey / Greasemonkey userscripts](https://github.com/karlhorky/userscripts)
-- [macOS Dotfiles](https://github.com/karlhorky/dotfiles)
+- "Tricks" repos: [GitHub Tricks](https://github.com/karlhorky/github-tricks), [npm Tricks](https://github.com/karlhorky/npm-tricks), [TypeScript Tricks](https://github.com/karlhorky/typescript-tricks), [Tailwind CSS Tricks](https://github.com/karlhorky/tailwind-css-tricks), [Creating GitHub Releases of `pkg` Executables using GitHub Actions](https://github.com/karlhorky/vercel-pkg-github-actions-release)
+- Setup: [macOS Dotfiles](https://github.com/karlhorky/dotfiles), [Violentmonkey / Greasemonkey userscripts](https://github.com/karlhorky/userscripts)
 - [Recommendations](https://github.com/karlhorky/recommendations)
