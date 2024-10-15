@@ -1,4 +1,4 @@
-## Karl Horky - Teacher, Co-Founder @ [UpLeveled](https://upleveled.io)
+## Karl Horky - Cofounder, Curriculum @ [UpLeveled](https://upleveled.io)
 
 Hi 👋&nbsp;&nbsp;I'm Karl, an Austrian-Canadian programmer living in Vienna, Austria (originally from Vancouver / Victoria in B.C., Canada).
 
