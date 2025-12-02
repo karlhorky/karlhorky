@@ -2,7 +2,7 @@
 
 Hi 👋&nbsp;&nbsp;I'm Karl, an Austrian-Canadian programmer living in Amsterdam (originally from Vancouver / Victoria in B.C., Canada).
 
-Currently I'm passionate about building [UpLeveled](https://upleveled.io) to provide high quality tech education. This is where I spend most of my time - ensuring students get the best education outcomes possible.
+As technical founder and curriculum designer at [UpLeveled](https://upleveled.io), I aim to provide high quality, accessible tech education. Most of my time goes into ensuring students get the best education outcomes possible.
 
 <img src="https://raw.githubusercontent.com/karlhorky/karlhorky/main/karl-teaching.jpg" alt="Karl teaching students" />
 
